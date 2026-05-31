@@ -1,3 +1,3 @@
 # OpenChat
-micggsut@outlook.com
+micggsut@outlook.com               
 https://opens-linkychat.netlify.app/
